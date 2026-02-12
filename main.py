@@ -1,5 +1,5 @@
 def get_number(p1):
-	input(p1)
+	return int(input(p1))
 
 
 def menu():
